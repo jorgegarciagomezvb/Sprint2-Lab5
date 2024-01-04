@@ -3,3 +3,5 @@
 
 ## Cualquier duda, miren la documentación
 # Autor: Jorge García
+
+Al iniciar el proyecto, tienes que ejecutar npm run serve
